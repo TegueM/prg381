@@ -1,5 +1,9 @@
 package planRoute;
 
-public class PlanRoute {
+public interface PlanRoute 
+{
     
+    public void BuiltRoute(String a, String b) ;
+    
+
 }
